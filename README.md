@@ -1,13 +1,13 @@
 <div align="center">
   <a href="https://github.com/frostdeep">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frostdeep&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frostdeep&layout=compact&langs_count=7&theme=cobalt"
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frostdeep&layout=compact&langs_count=3&theme=cobalt"
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="frostdeep-cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="frostdeep-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="frostdeep-arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
+  <img align="center" alt="frostdeep-cpp" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="frostdeep-csharp" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="frostdeep-arduino" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
   
   </div>
 <div> 
